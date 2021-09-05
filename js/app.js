@@ -24,6 +24,6 @@ function agregarPersona(){
         mostrarPersonas();
     }
     else{
-        console.log('No hay información que agregar any');
+        console.log('No hay información que agregar ');
     }
 }

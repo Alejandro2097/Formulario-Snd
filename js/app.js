@@ -2,7 +2,7 @@ const personas = [
     new Persona('Juan', 'Perez'),
     new Persona('Karla', 'Lara')
 ];
-
+console.log('setp');
 function mostrarPersonas(){
     console.log('Mostrar personas...');
     let texto = '';

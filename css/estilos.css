@@ -10,7 +10,7 @@ html {
   }
   
   h1 {
-    color: #fff;
+    color: rgba(255, 255, 255, 0.842);
     padding: 10px;
   }
   
@@ -19,7 +19,7 @@ html {
     margin: 50px auto;
     background: white;
     border-radius: 5px;
-    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 15px -5px rgba(248, 14, 159, 0.3);
   }
   
   #cabecero {
@@ -31,7 +31,7 @@ html {
     min-height: 70px;
     display: flex;
     align-items: center;
-    border-bottom: 1px solid #f1f1f1;
+    border-bottom: 1px solid #c70606;
   }
   
   .elemento:last-child {

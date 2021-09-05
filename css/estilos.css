@@ -6,7 +6,7 @@ html {
     background: url(fondo.png),
       -webkit-gradient(linear, right top, left top, from(#2196f3), to(#009688));
     background: url(fondo.png),
-      linear-gradient(to left, #2196f3, #009688);
+      linear-gradient(to left, #2196f3, #17e0cc);
   }
   
   h1 {
@@ -17,7 +17,7 @@ html {
   .contenedor {
     max-width: 400px;
     margin: 50px auto;
-    background: white;
+    background: rgb(231, 209, 209);
     border-radius: 5px;
     box-shadow: 5px 5px 15px -5px rgba(248, 14, 159, 0.3);
   }
@@ -31,7 +31,7 @@ html {
     min-height: 70px;
     display: flex;
     align-items: center;
-    border-bottom: 1px solid #c70606;
+    border-bottom: 1px solid #da5757;
   }
   
   .elemento:last-child {
@@ -69,8 +69,8 @@ html {
   
   input[type="text"] {
     text-align: center;
-    height: 60px;
-    top: 10px;
+    height: 50px;
+    top: 20px;
     border: none;
     background: transparent;
     font-weight: 200;
